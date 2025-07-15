@@ -20,7 +20,7 @@ LiteBlue USPS is a simplified and responsive front-end project designed for educ
 ## Author
 **Name:** Your A/C Name  
 **Email:** Your a/c email id  
-**Website:** liteblue usps  
+**Website:** [liteblue usps](https://www.liteblue.it.com)
 
 *An experienced front-end engineer passionate about crafting intuitive web interfaces. With a solid background in React, UI architecture, and responsive design, the author is known for clean code, mentorship, and problem-solving skills. Dedicated to helping others learn and build impactful projects.*
 
